@@ -44,3 +44,6 @@ Object object = new Object();
 ReferenceQueue queue = new ReferenceQueue ();
 PhantomReference pr = new PhantomReference (object, queue);
 ```
+
+#### 参考
+[https://www.cnblogs.com/huajiezh/p/5835618.html](https://www.cnblogs.com/huajiezh/p/5835618.html)  
