@@ -1,5 +1,5 @@
 #### 运行时数据区
-![https://ww1.sinaimg.cn/large/007rAy9hly1g0uh69rrubj30m80d9apx.jpg]
+![运行时数据区](https://ww1.sinaimg.cn/large/007rAy9hly1g0uh69rrubj30m80d9apx.jpg)
 主要分为5个部分：
 - 虚拟机栈
 - 本地方法栈
